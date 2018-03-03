@@ -10,7 +10,7 @@
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/a8c5e1a4734f0d547c8f9516b6239256/" target="_blank">414.edges</a>
 
-><a href="https://bl.ocks.org/slerkpatomsak/raw/fed14d94e0d87f8e9e09f8f3f518f11d/" target="_blank">686.edges</a>
+><a href="https://bl.ocks.org/slerkpatomsak/raw/fed14d94e0d87f8e9e09f8f3f518f11d/" target="_blank">686.edges **Check this out first!**</a>
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/4bf2edaf9f5cc580dcb34f99d1c83991/" target="_blank">698.edges</a>
 
@@ -20,7 +20,7 @@
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/9df50f1704e715f990c9cfae7bee7d70/" target="_blank">3437.edges</a>
 
-><a href="https://bl.ocks.org/slerkpatomsak/raw/1722238b458179b065fbfc4db389a1a6/" target="_blank">3980.edges</a>
+><a href="https://bl.ocks.org/slerkpatomsak/raw/1722238b458179b065fbfc4db389a1a6/" target="_blank">3980.edges **Check this out first!**</a>
 
 <h3>Matrix Based Representation</h3>
 
