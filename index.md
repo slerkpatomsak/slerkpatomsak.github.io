@@ -20,8 +20,6 @@
 
 <h1>Assignment 4</h1>
 
-<h3>Node-Link Graph</h3>
-
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/a8c5e1a4734f0d547c8f9516b6239256/" target="_blank">Bar Chart</a>
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/4bf2edaf9f5cc580dcb34f99d1c83991/" target="_blank">Line Chart</a>
