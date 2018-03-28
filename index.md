@@ -24,7 +24,7 @@
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/4bf2edaf9f5cc580dcb34f99d1c83991/" target="_blank">Line Chart</a>
 
-><a href="https://bl.ocks.org/slerkpatomsak/raw/1722238b458179b065fbfc4db389a1a6/" target="_blank">Scatter Plot</a>
+><a href="https://bl.ocks.org/slerkpatomsak/raw/7b412ce52a1b570a7534da555596e86a/" target="_blank">Scatter Plot</a>
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/f124b5e74e34a2be57292a0362a633c5/" target="_blank">Scatter Plot(Tri)</a>
 
