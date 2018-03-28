@@ -22,13 +22,13 @@
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/4f487671502bea1334463d425a2faa17/" target="_blank">Bar Chart</a>
 
-><a href="https://bl.ocks.org/slerkpatomsak/raw/4bf2edaf9f5cc580dcb34f99d1c83991/" target="_blank">Line Chart</a>
+><a href="https://bl.ocks.org/slerkpatomsak/raw/2e01456469747b0228cacc107ba73750/" target="_blank">Line Chart</a>
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/7b412ce52a1b570a7534da555596e86a/" target="_blank">Scatter Plot</a>
 
-><a href="https://bl.ocks.org/slerkpatomsak/raw/f124b5e74e34a2be57292a0362a633c5/" target="_blank">Scatter Plot(Tri)</a>
+><a href="https://bl.ocks.org/slerkpatomsak/raw/435dc4353485e99df2da7d78a203afb9/" target="_blank">Scatter Plot(Tri)</a>
 
-><a href="https://bl.ocks.org/slerkpatomsak/raw/d82436ebb7113053d224d285c8c47c13/" target="_blank">Trellis Plot</a>
+><a href="https://bl.ocks.org/slerkpatomsak/raw/971d04facc1d680d507cfef6b28b9c5b/" target="_blank">Trellis Plot</a>
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/1120782b609c5c38f6ff4ba470d1b741/" target="_blank">SPLOM</a>
 
