@@ -28,11 +28,11 @@
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/435dc4353485e99df2da7d78a203afb9/" target="_blank">Scatter Plot(Tri)</a>
 
-><a href="https://bl.ocks.org/slerkpatomsak/raw/971d04facc1d680d507cfef6b28b9c5b/" target="_blank">Trellis Plot</a>
+><a href="" target="_blank">Trellis Plot</a>
 
-><a href="https://bl.ocks.org/slerkpatomsak/raw/1120782b609c5c38f6ff4ba470d1b741/" target="_blank">SPLOM</a>
+><a href="" target="_blank">SPLOM</a>
 
-><a href="https://bl.ocks.org/slerkpatomsak/raw/1120782b609c5c38f6ff4ba470d1b741/" target="_blank">Parallel Coordinates</a>
+><a href="https://bl.ocks.org/slerkpatomsak/raw/971d04facc1d680d507cfef6b28b9c5b/" target="_blank">Parallel Coordinates</a>
 
 
 
