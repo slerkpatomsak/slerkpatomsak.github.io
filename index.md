@@ -28,7 +28,7 @@
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/435dc4353485e99df2da7d78a203afb9/" target="_blank">Scatter Plot(Tri)</a>
 
-><a href="" target="_blank">Trellis Plot</a>
+><a href="https://bl.ocks.org/slerkpatomsak/raw/297397e7204eca6c7667e4fa5914b271/" target="_blank">Trellis Plot</a>
 
 ><a href="" target="_blank">SPLOM</a>
 
