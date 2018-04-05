@@ -48,8 +48,10 @@
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/297397e7204eca6c7667e4fa5914b271/" target="_blank">Trellis Plot</a>
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/20b268f948fd1ad4dba1aa4a6b729fde/" target="_blank">Scatter Matrix</a>
+><a href="https://bl.ocks.org/mbostock/4063663" target="_blank">Reference</a>
 
 ><a href="https://bl.ocks.org/slerkpatomsak/raw/971d04facc1d680d507cfef6b28b9c5b/" target="_blank">Parallel Coordinates</a>
+><a href="https://bl.ocks.org/jasondavies/1341281" target="_blank">Reference</a>
 
 
 
